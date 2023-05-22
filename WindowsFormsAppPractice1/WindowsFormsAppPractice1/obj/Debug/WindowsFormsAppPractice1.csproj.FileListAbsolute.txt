@@ -1,0 +1,10 @@
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\bin\Debug\WindowsFormsAppPractice1.exe.config
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\bin\Debug\WindowsFormsAppPractice1.exe
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\bin\Debug\WindowsFormsAppPractice1.pdb
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\obj\Debug\WindowsFormsAppPractice1.csprojAssemblyReference.cache
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\obj\Debug\WindowsFormsAppPractice1.Properties.Resources.resources
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\obj\Debug\WindowsFormsAppPractice1.csproj.GenerateResource.cache
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\obj\Debug\WindowsFormsAppPractice1.csproj.CoreCompileInputs.cache
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\obj\Debug\WindowsFormsAppPractice1.exe
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\obj\Debug\WindowsFormsAppPractice1.pdb
+C:\Users\User Account\source\repos\WindowsFormsAppPractice1\WindowsFormsAppPractice1\obj\Debug\WindowsFormsAppPractice1.FormCalculator.resources

@@ -1,0 +1,20 @@
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\Pro Calculator.csprojAssemblyReference.cache
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormProCal.resources
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\Pro Calculator.csproj.GenerateResource.cache
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\Pro Calculator.csproj.CoreCompileInputs.cache
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\User Account\Desktop\Office\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\Pro Calculator.csprojAssemblyReference.cache
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormProCal.resources
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\Pro Calculator.csproj.GenerateResource.cache
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\Pro Calculator.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\RayanGate\Desktop\Office\Learn\My C# Apps\Pro Calculator\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
